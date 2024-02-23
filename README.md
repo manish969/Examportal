@@ -13,4 +13,4 @@ has attempted the quiz
 tiple media types to facilitate more inclusive
 learning
 :- Developed using Angular for frontend and
-SpringBoot for backend and MySql for th
+SpringBoot for backend and MySql for the Database.
